@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/jinjidechefeng/awmg.github.io/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatWalker0"></a>
+  <a href="https://github.com/jinjidechefeng/awmg.github.io/blob/main/static/image/ClickBefore.png" width="100" height="100" alt="EatWalker0"></a>
 </p>
 <div align="center">
 
