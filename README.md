@@ -14,4 +14,6 @@
 
 小游戏：吃掉教主！
 
+点击开始玩→https://jinjidechefeng.github.io/awmg.github.io/
+
 一个大佬小游戏的改版，原版：https://github.com/arcxingye/EatKano
