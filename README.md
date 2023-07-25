@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://github.com/jinjidechefeng/awmg.github.io/blob/main/static/image/ClickBefore.png" width="100" height="100" alt="EatWalker0"></a>
+  <a href="https://[xingye.me/game/eatkano](https://jinjidechefeng.github.io/awmg.github.io/
+)"><img src="https://github.com/jinjidechefeng/awmg.github.io/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatWalker"></a>
 </p>
-<div align="center">
 
 # EatWalker
 
-_ 网页小游戏 _
+网页小游戏 
 
 </div>
 
