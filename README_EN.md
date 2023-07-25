@@ -4,4 +4,4 @@
 </p>
 Game: Eat Walker#0!
 
-A reworked version of the big guy's little game, the original
+A reworked version of the big guy's little game, the original Repository:https://github.com/arcxingye/EatKano
