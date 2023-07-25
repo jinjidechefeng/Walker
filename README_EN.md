@@ -3,5 +3,9 @@
 )"><img src="https://github.com/jinjidechefeng/awmg.github.io/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatWalker"></a>
 </p>
 Game: Eat Walker#0!
+
+
 Play now:https://jinjidechefeng.github.io/awmg.github.io/
+
+
 A reworked version of another game, the original Repository:https://github.com/arcxingye/EatKano
